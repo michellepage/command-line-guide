@@ -2,6 +2,6 @@
 
 A compilation of commands used in various terminals, editors, and IDEs (git bash, MobaXTerm, Vim).
 
-- Git for VSCode
+- Git
 - MobaXTerm
 - Vim
